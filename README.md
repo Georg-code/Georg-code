@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georg-code&theme=dark)
+Future engineer and tech enthusiast with a love for tinkering, problem-solving, and constantly learning

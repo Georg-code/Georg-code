@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Georg!
 
-🎓 **Mechanical Engineering Student** at ETH Zurich  
+🎓 **Mechanical Engineering Student**
 🛠️ Tech Enthusiast | Problem Solver | Constant Learner
 
 ---

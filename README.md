@@ -3,5 +3,5 @@
 
 ### 📫 Get in Touch
 
-- Feel free to reach out via **email** at: [ge.niggli@outlook.com](mailto:ge.niggli@outlook.com)
+- Feel free to reach out via **email** at: [gniggli@student.ethz.ch](mailto:gniggli@student.ethz.ch)
 
